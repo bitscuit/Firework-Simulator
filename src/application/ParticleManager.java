@@ -9,7 +9,7 @@ import javafx.scene.paint.Color;
  * launch sparks and the delay charge sparks.  Many constants are available to alter
  * the way the simulation works.  These can be altered more easily when the simulation
  * can be viewed.
- * 
+ * Author: Alan McLeod
  */
 public class ParticleManager {
 
