@@ -7,6 +7,11 @@ package application;
 public class EmitterException extends Exception {
 
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -1829732397203597331L;
+
+	/**
 	 * Accepts a specific message about the problem.
 	 * @param message A string error message.
 	 */
